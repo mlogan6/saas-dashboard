@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Saas Landing Page",
   description: "Created by Marcus Logan",
-};ç
+};
 
 export default function RootLayout({ children }) {
   return (
